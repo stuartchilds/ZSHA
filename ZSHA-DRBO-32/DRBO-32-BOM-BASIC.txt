@@ -1,0 +1,32 @@
+DRBO B.O.M. 09/10/12
+
+B.O.M.
+
+Arduino UNO x1
+Adafruit Motor shield x1
+1.8deg/step stepper motor x2
+Lengths of thread / wire x2
+Small self adhesive magnets x4
+DC jack x1
+Small extension spring x1
+30mm circle of grip tape x1
+Mini servo x1
+3 pin header x1
+3 wire extension cable x1
+12v 1A DC power supply x1
+
+M3 40mm machine screw x2
+M3 8mm counter sunk machine screw x12
+M3 5mm machine screw x8
+M3 10mm machine screw x4
+M3 20mm machine screw x8
+M3 hex nut x26
+M3 washer x12
+Plastic rivet x4
+M3 3mm nylon spacer x8
+M6 25mm bolt x9
+M6 16mm bolt x22
+M6 coupling nut x4
+M6 hex nut x30
+
+USB A - B cable x1
